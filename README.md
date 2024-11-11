@@ -1,16 +1,13 @@
-## Hi there 👋
+## Languages
+![](https://skillicons.dev/icons?i=cs,unity,github,rider,md,firebase)
 
-<!--
-**achieveonepark/achieveonepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achieveonepark&theme=github)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's keep up and stay ahead of the game.
+
+- 🎮 I'm a Unity game developer.
+- 📦 I craft Unity features into neat packages.
+- 🔍 I'm into R&D for native C# functionalities.
+- 📱 Passionate about Android and iOS platforms.
