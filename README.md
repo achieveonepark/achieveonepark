@@ -1,9 +1,18 @@
-## Languages
-![](https://skillicons.dev/icons?i=cs,unity,github,rider,md,firebase)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&lines=Unity+Developer;Package+Architect;Mobile+%26+PC+Games)](https://git.io/typing-svg)
 
-## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achieveonepark&theme=github)
+## 🛠️ Tech Stack
+![](https://skillicons.dev/icons?i=cs,unity,github,rider,firebase,md)
 
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achieveonepark&theme=github_dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=achieveonepark&theme=github-dark-blue&hide_border=true)
+
+## 📅 Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achieveonepark&theme=github-compact)
+
+## 🏆 Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=achieveonepark&theme=onedark&no-frame=true&row=1)
 
 ### Let's keep up and stay ahead of the game.
 
