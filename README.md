@@ -4,15 +4,18 @@
 ## 🛠️ Tech Stack
 ![](https://skillicons.dev/icons?i=cs,unity,dotnet,github,firebase,md,androidstudio,swift,windows,apple)
 
+<br/>
+
 ## 📊 Stats
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=achieveonepark&theme=github_dark&hide_border=true)
 ![Streak](https://streak-stats.demolab.com/?user=achieveonepark&theme=github-dark-blue&hide_border=true)
 
+<br/>
+
 ## 📅 Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achieveonepark&theme=github-compact)
 
-## 🏆 Trophy
-![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=achieveonepark&theme=onedark&no-frame=true)
+<br/>
 
 ### Let's keep up and stay ahead of the game.
 
