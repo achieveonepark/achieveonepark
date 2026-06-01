@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&lines=Unity+Developer;Package+Architect;Mobile+%26+PC+Games)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
-![](https://skillicons.dev/icons?i=cs,unity,github,rider,firebase,md)
+![](https://skillicons.dev/icons?i=cs,unity,dotnet,github,firebase,md,androidstudio,swift,windows,apple)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achieveonepark&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=achieveonepark&theme=github_dark&hide_border=true)
 ![Streak](https://streak-stats.demolab.com/?user=achieveonepark&theme=github-dark-blue&hide_border=true)
 
 ## 📅 Activity
