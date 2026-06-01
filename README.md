@@ -12,7 +12,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achieveonepark&theme=github-compact)
 
 ## 🏆 Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=achieveonepark&theme=onedark&no-frame=true&row=1)
+![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=achieveonepark&theme=onedark&no-frame=true)
 
 ### Let's keep up and stay ahead of the game.
 
